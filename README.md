@@ -5,7 +5,6 @@
 * 利用舵机控制超声波传感器的转动，使检测障碍物更为灵活。
 
 ##效果演示
-[baidu](http://www.baidu.com)
 ![car](https://github.com/Jason-Flash/Smart-Car/blob/master/image/SmartCar.gif)
 ##小车制作
 ##程序编写
