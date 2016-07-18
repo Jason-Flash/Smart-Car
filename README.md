@@ -6,6 +6,6 @@
 
 ##效果演示
 [baidu](http://www.baidu.com)
-![car](http://imgur.com/4bYw12e.gif)
+![car](https://github.com/Jason-Flash/Smart-Car/blob/master/image/SmartCar.gif
 ##小车制作
 ##程序编写
