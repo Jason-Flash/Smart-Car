@@ -8,12 +8,12 @@
 ![car](https://github.com/Jason-Flash/Smart-Car/blob/master/image/SmartCar.gif)
 ##小车制作
 ###材料准备
-* HC-SR04超声波传感器1个
+* HC-SR04超声波传感器1个  
+* P0090舵机1个  
 * L298N电机驱动模块1个  
 * 4轮驱动智能小车底盘1个  
 * 两节18650锂电池盒1个
 * 18650充电锂电池2节  
-* P0090舵机1个  
 * 杜邦线若干根
 
 ###接线
