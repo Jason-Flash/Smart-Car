@@ -8,6 +8,7 @@
 ![car](https://github.com/Jason-Flash/Smart-Car/blob/master/image/SmartCar.gif)
 ##小车制作
 ###材料准备
-HC-SR04超声波传感器1个    
+HC-SR04超声波传感器1个  
+18650充电锂电池2节  
 P0090舵机1个
 ##程序编写
