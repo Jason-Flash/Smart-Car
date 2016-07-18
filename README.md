@@ -8,6 +8,7 @@
 ![car](https://github.com/Jason-Flash/Smart-Car/blob/master/image/SmartCar.gif)
 ##小车制作
 ###材料准备
+* 51单片机开发板一个（注：也可使用其他开发板或自制板进行控制，程序和接线方法需要进行修改）  
 * HC-SR04超声波传感器1个  
 * P0090舵机1个  
 * L298N电机驱动模块1个  
